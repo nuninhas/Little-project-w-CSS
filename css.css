@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;    
+}
+body{
+    background-color: burlywood;
+}
+.tittle{ /*titúlo do texto*/
+    background-color: brown;
+    width: 120px;
+    padding: 20px 20px;
+    text-align: center;
+    margin: 40px 600px;
+}
+.list{  /*meu comentário de teste embaixo do título*/
+    background-color: chocolate;
+    text-align: center;
+    width: 500px;
+    margin: 5px 415px;
+    padding: 20px;
+
+}
+.list2{
+    background-color: coral;
+    text-align: center;
+    width: 500px;
+    margin: 5px 415px;
+    padding: 20px;
+}
+.texting{
+    background-color: darkgoldenrod;
+    text-align: center;
+    width: 700px;
+    margin: 0px 290px;
+    padding: 50px;
+}
+.pic{
+    margin: 16px 630px;
+}
